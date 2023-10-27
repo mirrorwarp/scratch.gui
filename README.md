@@ -1,8 +1,8 @@
-scratch-gui modified for use in [MirrorWarp](https://mirrorwarp.org/)
+scratch-gui modified for use in [MirrorWarp](https://mirrorwarp.github.io/)
 
 ## Setup
 
-See https://docs.mirrorwarp.org/development/getting-started to setup the complete MirrorWarp environment.
+See https://docs.mirrorwarp.github.io/development/getting-started to setup the complete MirrorWarp environment.
 
 If you just want to play with the GUI then it's the same process as upstream scratch-gui.
 
